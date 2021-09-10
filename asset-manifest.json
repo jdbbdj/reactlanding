@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactportfolio1/static/css/main.b5a98cbd.chunk.css",
+    "main.js": "/reactportfolio1/static/js/main.c381d0e2.chunk.js",
+    "main.js.map": "/reactportfolio1/static/js/main.c381d0e2.chunk.js.map",
+    "runtime-main.js": "/reactportfolio1/static/js/runtime-main.42436e87.js",
+    "runtime-main.js.map": "/reactportfolio1/static/js/runtime-main.42436e87.js.map",
+    "static/js/2.7f6f224e.chunk.js": "/reactportfolio1/static/js/2.7f6f224e.chunk.js",
+    "static/js/2.7f6f224e.chunk.js.map": "/reactportfolio1/static/js/2.7f6f224e.chunk.js.map",
+    "index.html": "/reactportfolio1/index.html",
+    "static/css/main.b5a98cbd.chunk.css.map": "/reactportfolio1/static/css/main.b5a98cbd.chunk.css.map",
+    "static/js/2.7f6f224e.chunk.js.LICENSE.txt": "/reactportfolio1/static/js/2.7f6f224e.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/reactportfolio1/static/media/svg-1.b372e414.svg",
+    "static/media/svg-2.34622197.svg": "/reactportfolio1/static/media/svg-2.34622197.svg",
+    "static/media/svg-4.svg": "/reactportfolio1/static/media/svg-4.c59f71af.svg",
+    "static/media/svg-5.svg": "/reactportfolio1/static/media/svg-5.40f12e76.svg",
+    "static/media/video.7d1ea6a9.mp4": "/reactportfolio1/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42436e87.js",
+    "static/js/2.7f6f224e.chunk.js",
+    "static/css/main.b5a98cbd.chunk.css",
+    "static/js/main.c381d0e2.chunk.js"
+  ]
+}
